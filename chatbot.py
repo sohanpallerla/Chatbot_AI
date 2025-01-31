@@ -1,4 +1,3 @@
-# find more coding projects & free ebooks at Codewithcurious.com
 import tkinter as tk
 import openai
 
